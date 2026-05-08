@@ -5,12 +5,14 @@
 //  Created by Vidadi Muradzada on 08.05.26.
 //  Task 5
 
+// Library
 import Foundation
 
+// Variables
 let realNum: Int = 9
 var isPrime: Bool = true
 
-
+// Operations
 if realNum == 1 {
     print("\(realNum) sadə ola bilməz")
 }else{
@@ -22,7 +24,7 @@ if realNum == 1 {
     }
 }
 
-
+// Result
 if isPrime == true {
     print("\(realNum) sadə ədəddir")
 }else{
